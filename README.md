@@ -6,5 +6,5 @@ The planning done in two stages: global using defined graph for the a map, and l
 The expereimnt is done using vrep environment with c++ remote code.
 
 Demo Videos:  
-(1) https://drive.google.com/open?id=0B6uQBKIOjVygd3Y2eUV1dndzWm8 \n
+(1) https://drive.google.com/open?id=0B6uQBKIOjVygd3Y2eUV1dndzWm8 <br>
 (2) https://drive.google.com/open?id=0B6uQBKIOjVygWDZSNWNDakNQMDA
